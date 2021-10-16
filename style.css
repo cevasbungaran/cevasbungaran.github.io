@@ -1,0 +1,50 @@
+.button{
+    margin-top: 27px;
+    margin-bottom: 10px;
+}
+.btn{
+    background-color: black;
+    border: none;
+    border-radius: 5px;
+}
+a{
+    text-decoration: none;
+}
+.logo{
+    margin-bottom: 2px;
+    display: inline;
+    float: right;
+}
+#logoFB{
+    margin-bottom: 2px;
+    display: inline;
+    float: right;
+}
+#logoWA{
+    margin-bottom: 2px;
+    display: inline;
+    float: right;
+}
+#logoIG{
+    margin-bottom: 2px;
+    border-radius: 20px;
+    display: inline;
+    float: right;
+}
+#logoYT{
+    margin-bottom: 2px;
+    display: inline;
+    float: right;
+}
+#logoGmaps{
+    margin-bottom: 2px;
+    display: inline;
+    float: right;
+}
+@media only screen and (min-width: 600px){
+    .button{
+        margin-left: auto;
+        margin-right: auto;
+        width: 600px;
+    }
+}
