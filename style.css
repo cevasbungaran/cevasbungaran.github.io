@@ -1,3 +1,7 @@
+.logoBabi{
+    width: 240px;
+    border-radius: 20%;
+}
 .button{
     margin-top: 27px;
     margin-bottom: 10px;
@@ -9,6 +13,11 @@
 }
 a{
     text-decoration: none;
+    
+}
+p{
+    margin: auto;
+    color: white;
 }
 .logo{
     margin-bottom: 2px;
@@ -46,5 +55,16 @@ a{
         margin-left: auto;
         margin-right: auto;
         width: 600px;
+    }
+}
+@media (prefer-color-scheme: dark){
+    .btn{
+        background-color:white;
+        border: none;
+        border-radius: 5px;
+    }
+    p{
+        margin: auto;
+        color:black;
     }
 }
