@@ -58,6 +58,14 @@ p{
     }
 }
 @media (prefer-color-scheme: dark){
+    .logoBabi{
+        width: 240px;
+        border-radius: 20%;
+    }
+    .button{
+        margin-top: 27px;
+        margin-bottom: 10px;
+    }
     .btn{
         background-color:white;
         border: none;
