@@ -57,7 +57,7 @@ p{
         width: 600px;
     }
 }
-@media (prefer-color-scheme: dark){
+@media (prefers-color-scheme: dark){
     .logoBabi{
         width: 240px;
         border-radius: 20%;
