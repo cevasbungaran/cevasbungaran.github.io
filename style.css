@@ -74,5 +74,9 @@ p{
     p{
         margin: auto;
         color:black;
+        font-weight: 500;
+    }
+    body{
+        background-color: rgb(34, 33, 33);
     }
 }
